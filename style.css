@@ -1,18 +1,18 @@
 @font-face {
     font-family: neu;
-    src: url(/NeueHaasDisplayMediu.woff2);
+    src: url("/NeueHaasDisplayMediu.woff2") format('woff2');
 }
 
 @font-face {
     font-family: neu;
     font-weight: 100;
-    src: url(/NeueHaasDisplayLight.woff2);
+    src: url("/NeueHaasDisplayLight.woff2") format('woff2');
 }
 
 @font-face {
     font-family: neu;
     font-weight: 200;
-    src: url(/NeueHaasDisplayRoman.woff2);
+    src: url("/NeueHaasDisplayRoman.woff2") format('woff2');
 }
 
 * {
