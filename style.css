@@ -8,7 +8,6 @@
     font-weight: 100;
     src: url("/NeueHaasDisplayLight.woff2") format('woff2');
 }
-
 @font-face {
     font-family: neu;
     font-weight: 200;
@@ -19,7 +18,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: neu;
+    font-family: neu,sans-serif;
 }
 
 html, body {
